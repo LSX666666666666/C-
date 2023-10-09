@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "TwhxxNphArr8qTVSaEabZFhYnnoSCHkKv2azGGeTPq5DAu0M13SAo5X261C0g5/Ze8p0aPokZYJiGrX6xrXilw==",
+  "success": true,
+  "projectFilePath": "H:\\BaiduNetdiskDownload\\项目源码\\32021010048 李圣贤 酒店管理系统\\Hotel\\WebJob1\\WebJob1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\h3854\\.nuget\\packages\\microsoft.azure.keyvault.core\\1.0.0\\microsoft.azure.keyvault.core.1.0.0.nupkg.sha512",
+    "C:\\Users\\h3854\\.nuget\\packages\\microsoft.azure.webjobs\\1.1.2\\microsoft.azure.webjobs.1.1.2.nupkg.sha512",
+    "C:\\Users\\h3854\\.nuget\\packages\\microsoft.azure.webjobs.core\\1.1.2\\microsoft.azure.webjobs.core.1.1.2.nupkg.sha512",
+    "C:\\Users\\h3854\\.nuget\\packages\\microsoft.data.edm\\5.8.4\\microsoft.data.edm.5.8.4.nupkg.sha512",
+    "C:\\Users\\h3854\\.nuget\\packages\\microsoft.data.odata\\5.8.4\\microsoft.data.odata.5.8.4.nupkg.sha512",
+    "C:\\Users\\h3854\\.nuget\\packages\\microsoft.data.services.client\\5.8.4\\microsoft.data.services.client.5.8.4.nupkg.sha512",
+    "C:\\Users\\h3854\\.nuget\\packages\\microsoft.web.webjobs.publish\\17.1.361\\microsoft.web.webjobs.publish.17.1.361.nupkg.sha512",
+    "C:\\Users\\h3854\\.nuget\\packages\\microsoft.windowsazure.configurationmanager\\3.2.1\\microsoft.windowsazure.configurationmanager.3.2.1.nupkg.sha512",
+    "C:\\Users\\h3854\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\h3854\\.nuget\\packages\\system.spatial\\5.8.4\\system.spatial.5.8.4.nupkg.sha512",
+    "C:\\Users\\h3854\\.nuget\\packages\\windowsazure.storage\\7.0.0\\windowsazure.storage.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
